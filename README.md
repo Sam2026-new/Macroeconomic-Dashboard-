@@ -9,5 +9,5 @@ This interactive Excel dashboard provides a visual analysis of India’s economi
 * **External Sector:** Monitoring INR/USD exchange rate fluctuations and Fiscal Deficit indicators.
 
 ## Tools Used
-* **Microsoft Excel:** Advanced Charting, Power Query, and Data Modeling.
+* **Microsoft Excel:** Advanced Charting
 * **Data Sources:** RBI (Reserve Bank of India) and MoSPI.
