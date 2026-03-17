@@ -1,4 +1,5 @@
-# Macroeconomic Dashboard: India (2015–2025)
+ ![Macroeconomic Dashboard](https://github.com/Sam2026-new/Macroeconomic-Dashboard-/blob/main/Dashboard.jpg?raw=true)
+ # Macroeconomic Dashboard: India (2015–2025)
 
 ## Project Overview
 This interactive Excel dashboard provides a visual analysis of India’s economic trajectory over the last decade. It tracks the interplay between growth, price stability, and monetary policy through four key lenses:
